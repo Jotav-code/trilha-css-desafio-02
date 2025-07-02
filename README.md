@@ -20,7 +20,6 @@ Esse desafio foi essencial para reforçar meu domínio de **CSS** e aprimorar mi
 
 ![preview](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
-> *Substitua essa imagem com um print do seu projeto real.*
 
 ---
 
@@ -36,5 +35,5 @@ Esse desafio foi essencial para reforçar meu domínio de **CSS** e aprimorar mi
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Jotav-code/trilha-css-desafio-02.git
 cd nome-do-repositorio
