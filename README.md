@@ -18,7 +18,7 @@ Esse desafio foi essencial para reforçar meu domínio de **CSS** e aprimorar mi
 
 ## 🔍 Pré-visualização
 
-![preview](https://user-images.githubusercontent.com/55519539/321028924-7463c086-d90f-4b8a-97f6-bfb8e2e34f02.png)
+![Image](https://github.com/user-attachments/assets/f2b2018b-5295-4138-ab00-c09c27389efb)
 
 
 ---
