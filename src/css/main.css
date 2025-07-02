@@ -1,0 +1,114 @@
+@import url(reset.css);
+@import url(pre-dedfinicoes.css);
+
+header > nav > ul{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 1.5rem;
+  align-items: center;
+  background-color: #ffff;
+}
+header > nav > ul > div{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+header > nav > ul li{
+  cursor: pointer;
+}
+.search{
+  border: solid 1px #CCCCCC;
+  height: 40px;
+  width: 405px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.search > li > img{
+  display: block;
+  background: #F8F8F8;
+  padding: 7px 19px 7px 14px;
+  z-index: -22222;
+  
+}
+
+main{
+  padding-top: 28px;
+  padding-left: 75px;
+  display: flex;
+}
+
+main > section > div > h1{
+  padding-top: 16px;
+}
+
+main > section > .funcoes-abaixo-do-video{
+  display: flex;
+  justify-content: space-between;
+  max-width: 992px;
+  width: 100%;
+  flex-wrap: wrap;
+  padding-right: 50px;
+  padding-top: 16px;
+}
+main > section > .funcoes-abaixo-do-video > .info-do-canal{
+  display: flex;
+  gap: 10px;
+
+  & h2{
+    font-size: .88rem;
+    font-weight: 700;
+  }
+}
+main > section > .funcoes-abaixo-do-video > button{
+  background: #CC0000;
+  border-radius: 2px;
+  color: white;
+  align-self: center;
+  font-weight: 700;
+  padding: 12px 35px;
+}
+
+main > section > .funcoes-abaixo-do-video > .butoes-funcionais{
+  display: flex;
+  align-items: center;
+}
+main > section > .funcoes-abaixo-do-video > .butoes-funcionais :nth-child(even){
+  margin-left: 10px;
+  margin-right: 42px;
+}
+
+main > section > .descricao{
+  padding-top: 16px;
+
+  & p{
+    width: 510px;
+    padding-top: 16px;
+  }
+}
+
+main > aside{
+  padding-left: 75px;
+}
+main > aside > .container > div{
+  display: flex;
+  max-width: 372px;
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+main > aside > .container > div p{
+  font-size: 12px;
+}
+
+main > aside > .container > .tumb :nth-child(2) :nth-child(2){
+  margin: 6px 0;
+}
+/* main > aside > .container > .tumb :nth-child(2){
+
+} */
+main > aside > .container > div img{
+  margin-right: 16px;
+}
+
+
