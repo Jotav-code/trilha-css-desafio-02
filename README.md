@@ -18,7 +18,7 @@ Esse desafio foi essencial para reforçar meu domínio de **CSS** e aprimorar mi
 
 ## 🔍 Pré-visualização
 
-![preview](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+![preview][(https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)](https://github.com/Jotav-code/trilha-css-desafio-02/issues/1#issue-3197328621)
 
 
 ---
